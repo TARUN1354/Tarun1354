@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Tarun S</h1>
-<h3 align="center">Information Technology Student</h3>
+<h3 align="center">Information Technology Graduate</h3>
 <h3 align="center">A Fresher Seeking for Job</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarun1354&label=Profile%20views&color=0e75b6&style=flat" alt="tarun1354" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarun1354" alt="tarun1354" /></a> </p>
 
-- 🌱 I’m an Intermediate in **UI/UX Design, FullStack Web Development, AI**
+- 🌱 I’m an Intermediate in **UI/UX Design, Data Engineer, FullStack Web Development, AI**
 
 - 📫 How to reach me **taruntarun1354@gmail.com**
 
