@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tarun S</h1>
 <h3 align="center">B.Tech Information Technology Graduate</h3>
-<h3 align="center">A Fresher Seeking for Job</h3>
+<h3 align="center">Data Engineer and AWS </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarun1354&label=Profile%20views&color=0e75b6&style=flat" alt="tarun1354" /> </p>
 
